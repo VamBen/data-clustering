@@ -1,0 +1,1 @@
+the problem statement is that, given a set of data containing information about customers pertaining to their spending habits, we have to find out which customers are likely to increase retail. This helps in pooling resources to especially market new items to these users. Higher income with high expenditure are in most demand, followed by low earners but high spenders. 
